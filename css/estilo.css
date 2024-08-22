@@ -1,0 +1,25 @@
+h1
+{
+    color:royalblue;
+    font-size: 50px;
+}
+*
+{
+    margin: 80px;
+}
+body
+{
+    background-color: darkgreen;
+}
+img
+{
+    width: 500px;
+    height: 500px;
+}
+p
+{
+    background-color: darkslateblue;
+    color: aquamarine;
+    font-family: impact;
+
+}
